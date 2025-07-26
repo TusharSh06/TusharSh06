@@ -31,7 +31,7 @@ Passionate about building robust and scalable web applications using the MERN st
 ## 🛠️ Projects
 
 ### [TechGather – A Smart Way to Connect](#)
-*Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js), Tailwind CSS, FullCalendar.js*
+*Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js), Tailwind CSS*
 
 - Developed a full-stack event management platform for creating, joining, and managing events with calendar visualization.
 - Designed a responsive UI with dark/light mode for enhanced user experience.
